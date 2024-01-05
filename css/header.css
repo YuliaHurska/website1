@@ -1,0 +1,25 @@
+.header-logo__container{
+    display: flex;
+}
+.header-logo {
+    font-family:"Playfair Display", serif;
+}
+.header-nav__list {
+    display: flex;
+}
+.nav-list__link {
+    list-style: none;
+    text-decoration: none; 
+    font-family:"Mukta", sans-serif ;
+}
+.nav-list__link a {
+    text-decoration: none;
+}
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 40px;
+}
+.header-nav__container{
+    display: flex;
+}
