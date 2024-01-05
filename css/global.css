@@ -14,3 +14,10 @@ img {
     max-width: 1200px;
     margin: auto;
 }
+a {
+    text-decoration: none;
+}
+ :root {
+    --background-color:rgb(57, 66, 74);
+    --text-decoration-color: rgb(255, 255, 255);
+ }
